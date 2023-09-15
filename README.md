@@ -1,9 +1,8 @@
 # SSolitaire
 
-just solitaire
-
-
 ## About
+
+> just solitaire
 
 School assignment showcase 4/4.
 
