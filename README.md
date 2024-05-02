@@ -1,5 +1,6 @@
 # Solitaire
 
+<<<<<<< HEAD
 [About](#about) ◈ [Installation](#installation) ◈ [How to use](#how-to-use) ◈ [Features](#features) ◈ [Scoring scheme](#scoring-scheme)
 
 <img src="display/sample-main.png" alt="screenshot of new solitaire game" height=400 />
@@ -27,6 +28,13 @@ This is a minimal Classic (Klondike) Solitaire game.
 5. Press "Restart" if the game is stuck or you want to change game type. You will have the option to re-deal the cards or go back to the menu page
 
     <img src="display/sample-restart.png" alt="screenshot of restart menu" width=300 />
+=======
+## About
+
+> just solitaire
+
+School assignment showcase 4/4.
+>>>>>>> ab9bfaedf303ef6d127dd193dfefbd3a8bf5dfb4
 
 ## Features
 
@@ -50,4 +58,8 @@ It has been modified from Microsoft Solitaire's scoring scheme
 |Card moved from one tableau to another|`+5`|
 |Facedown card turned faceup|`+10`|
 |Every 2 passes after 3 passes (4, 6, 8, etc) in *Draw 3*|`-50`|
+<<<<<<< HEAD
 |Every pass after 2 passes (3, 4, 5, etc) in *Draw 1*|`-50`|
+=======
+|Every pass after 2 passes (3, 4, 5, etc) in *Draw 1**|`-50`|
+>>>>>>> ab9bfaedf303ef6d127dd193dfefbd3a8bf5dfb4
